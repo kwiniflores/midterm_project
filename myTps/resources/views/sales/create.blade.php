@@ -171,3 +171,4 @@ function calculateTotal() {
 }
 </script>
 @endsection
+"/* Enhanced form validation for sales module */" 
